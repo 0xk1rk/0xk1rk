@@ -1,4 +1,4 @@
-### About me !
+### About me ! 💻
 
 1. **Languages**:
   python, c & go
